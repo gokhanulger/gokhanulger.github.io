@@ -22,12 +22,14 @@ h1, h2 {
 	color: #fff;
 	font-size:3rem;
 	text-orientation: center;
+		color: #fff;
+	text-shadow: 2px 2px black;
 
 }
 
 h5 {
 	color: #fff;
-	text-shadow: 2px 2px #ff0000
+	text-shadow: 2px 2px black;
 }
 
 
