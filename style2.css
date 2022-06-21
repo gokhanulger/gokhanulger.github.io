@@ -47,6 +47,17 @@ body {
 	height: fit-content;
 }
 
+#mc_embed_signup{
+	margin: auto; 
+	display: flex;
+	width: fit-content;
+	height: fit-content;
+	padding: 20px;
+	padding-right: 0px;
+	background-color: rgba(0,0,0,0.4);
+}
+
+
 input {
 	font-size: 20px;
 
