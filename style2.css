@@ -152,68 +152,6 @@ hr {
 }
 
 
-#mce-EMAIL
-{
-  height: 20px;
-  flex: 0px;
-  margin-left: 10px
-}
-#mce-FNAME	
-{
-  height: 20px;
-  flex: 0px;
-  margin-left: 10px
-}
-#mce-LNAME
-{
-  height: 20px;
-  flex: 0px;
-  margin-left: 10px
-}
-#mce-ADDRESS-addr1
-{
-  height: 20px;
-  flex: 0px;
-  margin-left: 10px
-}
-#mce-ADDRESS-addr2
-{
-  height: 20px;
-  flex: 0px;
-  margin-left: 10px
-}
-#mce-ADDRESS-city
-{
-  height: 20px;
-  flex: 0px;
-  margin-left: 10px
-}
-#mce-ADDRESS-state
-{
-  height: 20px;
-  flex: 0px;
-  margin-left: 10px
-}
-#mce-ADDRESS-zip
-{
-  height: 20px;
-  flex: 0px;
-  margin-left: 10px
-}
-#mce-ADDRESS-country {
-  height: 25px;
-  flex: 0px;
-  margin-left: 10px;
-
-
-}
-
-#mce-PHONE
-{
-  height: 20px;
-  flex: 0px;
-  margin-left: 10px
-}
 
 
 #mc-embedded-subscribe {
