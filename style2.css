@@ -48,7 +48,7 @@ body {
 }
 
 input {
-	font-size: 15px;
+	font-size: 20px;
 
 }
 
@@ -226,6 +226,10 @@ hr {
 	border-radius: 100px;
 	vertical-align: center;
 
+}
+
+.submitbutton {
+	background-color: #fbc420;
 }
 
 .btn-outline-success {
