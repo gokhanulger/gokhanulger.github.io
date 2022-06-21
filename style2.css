@@ -18,7 +18,25 @@ body {
 	margin-top: 100px;
 }
 
+.container-card-title {
+	margin: auto; 
+	display: flex;
+	width: fit-content;
+	height: fit-content;
+	padding: 20px;
+	background-color: rgba(0,0,0,0.4);
+}
 
+.container {
+	margin: auto; 
+	display: flex;
+	width: fit-content;
+	height: fit-content;
+	padding: 20px;
+	padding-right: 0px;
+	background-color: rgba(0,0,0,0.4);
+
+}
 
 #mc_embed_signup {
 	opacity: 0.9;
@@ -53,7 +71,7 @@ h1, h2 {
 }
 
 .row {
-	margin-left: 200px;
+	margin: auto;
 }
 
 .btn {
@@ -80,7 +98,7 @@ h1, h2 {
 
 	--c: #1095c1; /* the color */
   
-  color: #0000;
+  color: #white;
   background: 
     linear-gradient(90deg,#fff 50%,var(--c) 0) calc(500% - var(--_p,0%))/200% 100%,
     linear-gradient(var(--c) 0 0) 0% 100%/var(--_p,0%) 100% no-repeat;
@@ -201,8 +219,8 @@ hr {
 #mc-embedded-subscribe {
 	height: 40px;
 	background-color: #fbc420;
-	color: #fbc420;
-	border-color: #fbc420;
+	color: white;
+	border-color: none;
 	margin: 0px auto;
 	border-width: 0.5px;
 	border-radius: 100px;
@@ -221,14 +239,13 @@ hr {
 }
 
 .btn-outline-success:hover {
- border-color: #fbc420;
+ border-color: none;
  
 }
 
 .ontainer-card-title {
 	position: absolute;
 }
-
 
 
 
