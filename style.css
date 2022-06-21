@@ -1,0 +1,112 @@
+body,
+html {
+	width:  100%;
+	height: 100%;
+	font-family: 'Kdam Thmor Pro', sans-serif;
+
+ 	background: url(email-3249062_1280.png) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	background-color: white;
+}
+
+.container {
+	display: flex;
+}
+
+h1, h2 {
+	align-content: center;
+	text-align: center;
+	color: #fff;
+	font-size:3rem;
+	text-orientation: center;
+
+}
+
+h5 {
+	color: #fff;
+}
+
+
+.btn {
+	font-weight: 700;
+	border-radius: 100px;
+}
+
+.btn-xl {
+	padding: 2erm 3erm;
+
+}
+
+.big-header {
+	font-size: 5rem;
+}
+
+
+.findoutmore {
+	
+	background-color: #fbc420;
+	border-color: #fbc420;
+	border-width: 0.5px;
+	transition: 0.5s;
+
+	--c: #1095c1; /* the color */
+  
+  color: #0000;
+  background: 
+    linear-gradient(90deg,#fff 50%,var(--c) 0) calc(500% - var(--_p,0%))/200% 100%,
+    linear-gradient(var(--c) 0 0) 0% 100%/var(--_p,0%) 100% no-repeat;
+  -webkit-background-clip: text,padding-box;
+          background-clip: text,padding-box;
+  transition: 0.5s;
+
+
+}
+
+
+.findoutmore:hover {
+  --_p: 100%
+}
+
+.btn-primary {
+	
+	color: white;
+	background-color: #fbc420;
+	border-color: #fbc420;
+	margin: 0px auto;
+	border-width: 0.5px;
+}
+
+
+
+
+
+
+hr {
+    margin: 10px auto;
+    color: #fbc420;
+    border: 1px solid #fbc420;
+    max-width: 150px;
+    opacity: 1;  
+}
+
+.buffer {
+	height: 20px
+}
+
+
+
+
+body {
+  height: 100vh;
+  margin: 0;
+  display: grid;
+  place-content: center;
+}
+
+
+
+
+
