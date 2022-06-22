@@ -12,16 +12,14 @@ html {
   	-o-background-size: cover;
   	background-size: cover;
   	background-color: white;
+
 }
 
 body {
 	margin-top: 100px;
 }
 
-.navbar-nav {
-	overflow-y: auto;
-	overflow-x: auto;
-}
+
 
 .container-card-title {
 	margin: auto; 
@@ -52,10 +50,10 @@ body {
 }
 
 input {
-	line-height: 2em;
-	height: 30px;
+	line-height: 3em;
+	height: 40px;
 	text-align: center;
-	vertical-align: center;
+	font-size: 10px;
 }
 
 
