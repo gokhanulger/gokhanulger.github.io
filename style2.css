@@ -52,11 +52,11 @@ body {
 }
 
 input {
-	line-height: 3em;
-	height: 25px !important;
+	line-height: 32px;
+	height: 32px !important;
 	vertical-align: center;
 	margin-top: 10px;
-	font-size: 15px;
+	font-size-adjust: ;
 
 }
 
