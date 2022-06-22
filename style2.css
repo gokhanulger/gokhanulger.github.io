@@ -81,14 +81,20 @@ h1, h2 {
 	text-align: center;
 
 }
+.container-card-title {
+	display: grid;
+	justify-content: center;
+	align-content: center;
+}
 
 .row {
-	margin: auto;
-	display: grid;
-	gap: 10px;
-	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr);
-	grid-template-rows: 1fr;
+	grid-gap: 10px;
+	justify-content: center;
+	align-content: center;
+	align-items: stretch;
+	vertical-align: strecth;
 }
+
 
 .btn {
 	font-weight: 700;
