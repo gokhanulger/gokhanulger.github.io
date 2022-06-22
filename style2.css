@@ -43,6 +43,14 @@ body {
 
 }
 
+p {
+text-align: left;
+}
+
+li {
+	text-align: left;
+}
+
 #mc_embed_signup {
 	opacity: 0.9;
 	width: auto;
