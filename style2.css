@@ -23,10 +23,13 @@ body {
 
 .container-card-title {
 	margin: auto; 
-	display: flex;
+	display: grid;
 	width: fit-content;
 	height: fit-content;
 	padding: 20px;
+	align-content: center;
+	justify-items: center;
+	justify-content: center;
 	background-color: rgba(0,0,0,0.4);
 }
 
@@ -85,6 +88,7 @@ h1, h2 {
 	display: grid;
 	justify-content: center;
 	align-content: center;
+
 }
 
 .row {
