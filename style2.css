@@ -18,6 +18,11 @@ body {
 	margin-top: 100px;
 }
 
+.navbar-nav {
+	overflow-y: auto;
+	overflow-x: auto;
+}
+
 .container-card-title {
 	margin: auto; 
 	display: flex;
