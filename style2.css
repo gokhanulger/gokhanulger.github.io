@@ -30,8 +30,8 @@ body {
 .container {
 	margin: auto; 
 	display: flex;
-	width: fit-content;
-	height: fit-content;
+	width: auto;
+	height: auto;
 	padding: 20px;
 	padding-right: 0px;
 	background-color: rgba(0,0,0,0.4);
@@ -40,8 +40,8 @@ body {
 
 #mc_embed_signup {
 	opacity: 0.9;
-	width: 500px;
-	height: 500px;
+	width: auto;
+	height: auto;
 	display: flex;
 	padding: 20px;
 	background-color: rgba(0,0,0,0.4);
