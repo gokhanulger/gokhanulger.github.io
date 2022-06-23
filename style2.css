@@ -21,6 +21,7 @@ body {
 
 
 
+
 .container-card-title {
 	margin: auto; 
 	display: grid;
@@ -49,8 +50,7 @@ text-align: left;
 
 li {
 	text-align: left;
-	padding: 20px;
-	margin: 20px;
+	
 }
 
 #mc_embed_signup {
